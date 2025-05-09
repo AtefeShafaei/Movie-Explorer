@@ -42,7 +42,7 @@ function Aboutus() {
     <div className='container text-white text-center mt-5'>
         <h3 className='mb-5 text-danger'>Welcome To My Website</h3>
         <p>I'm Atefe , a frontend developer</p>
-        <p>I made this website using  " HTML, CSS, BootStrap, JS, React "</p>
+        <p>I made this website using  " HTML, CSS, BootStrap, React "</p>
         <br />
         <ul className="list-unstyled">
         I have used 
@@ -56,7 +56,7 @@ function Aboutus() {
         <a
         data-mdb-ripple-init className="social-btn mt-2"
         
-        href="https://www.linkedin.com/in/masoumeh-shafaei-23272b24a/"
+        href="https://www.linkedin.com/in/atefe-shafaei"
         role="button"
         title='My Linkedin'>
             <i className="fab fa-linkedin"></i>
